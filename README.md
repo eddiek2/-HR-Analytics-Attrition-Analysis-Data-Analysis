@@ -8,6 +8,8 @@ This project analyzes employee attrition patterns using the Kaggle HR Analytics 
 
 ## Dataset
 - **Source:** [HR Analytics Case Study by Vijay Choudhary](https://www.kaggle.com/datasets/vjchoudhary7/hr-analytics-case-study)
+- ## Spreadsheet
+[View the Google Sheets workbook here](https://docs.google.com/spreadsheets/d/19G9kR8PraLiv2ZTtyY_fKbMO29x5XJsSLneVmDpiGnI/edit?usp=sharing)
 - **Records:** 4,410 employees
 - **File used:** general_data.csv
 
